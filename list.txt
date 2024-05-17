@@ -183,13 +183,12 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-耀才財經台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
@@ -197,7 +196,6 @@ GOODTV经典音乐河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 创世.电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
