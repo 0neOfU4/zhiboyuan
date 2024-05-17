@@ -107,7 +107,6 @@ CCTV14,http://39.134.65.173/PLTV/88888888/224/3221225674/index.m3u8
 CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
-CGTN,http://39.134.66.110/PLTV/88888888/224/3221225509/index.m3u8
 CCTV15,http://39.134.66.110/PLTV/88888888/224/3221225513/index.m3u8
 CCTV11,http://39.134.66.110/PLTV/88888888/224/3221225517/index.m3u8
 CCTV4,http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
@@ -288,6 +287,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+CGTN,http://39.134.66.110/PLTV/88888888/224/3221225509/index.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
